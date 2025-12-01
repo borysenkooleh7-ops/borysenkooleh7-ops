@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=austin-kniga-battlet" alt="austin-kniga-battlet" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [austin-kniga-bartlett.vercel.app](austin-kniga-bartlett.vercel.app)
+- 👨‍💻 All of my projects are available at [austin-kniga-bartlett.vercel.app](https://austin-kniga-bartlett.vercel.app)
 
 - 💬 Ask me about **Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, REST APIs, GraphQL AI automation with OpenAI / ChatGPT PostgreSQL, MongoDB, MySQL**
 
 - 📫 How to reach me **austinkb02@gmail.com**
 
-- 📄 Know about my experiences [https://austin-kniga-bartlett.vercel.app.com/resume.pdf](https://austin-kniga-bartlett.vercel.app.com/resume.pdf)
+- 📄 Know about my experiences [https://austin-kniga-bartlett.vercel.app/resume.pdf](https://austin-kniga-bartlett.vercel.app/resume.pdf)
 
 - ⚡ Fun fact **I love deleting entire manual workflows and replacing them with a few lines of code and an automation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61584038954068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61584038954068" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/austinkb02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/austinkb02/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/austin-kniga-bartlett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="austin-kniga-bartlett" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61584038954068" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="austin-kniga-bartlett" height="30" width="40" /></a>
+<a href="https://www.instagram.com/austinkb02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="austinkb02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +27,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Austin Kniga Barttlet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Austin Kniga Barttlet" /></a><a href="https://ko-fi.com/Austin Kniga Barttlet"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Austin Kniga Barttlet" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/austinkb02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Austin Kniga Bartlett" /></a><a href="https://ko-fi.com/austinkb02"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Austin Kniga Bartlett" /></a></p><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=austin-kniga-battlet&show_icons=true&locale=en&layout=compact" alt="austin-kniga-battlet" /></p>
@@ -36,3 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=austin-kniga-battlet&" alt="austin-kniga-battlet" /></p>
 
+<h3 align="left">Market:</h3>
+<p align="left">
+<img src="download.gif" alt="Download" />
+</p>
